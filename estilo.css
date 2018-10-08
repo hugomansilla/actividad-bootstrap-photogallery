@@ -5,7 +5,7 @@
 		background-image: url(images/bg2.jpg);
 		text-align: center;
 		color: white;
-		padding: 50px 330px 50px 330px;
+		padding: 10vh;
 		margin-bottom: 40px;
 	}
 	.navbar{
@@ -29,8 +29,12 @@
 		text-align: center;
 		border-radius: 30px;
 		border: solid #dad6d6 6px;
+		padding: 0px;
+		padding-bottom: 20px;
 	}
-@media () and (){
-
-
-}
+	.thumbnail button{
+		background-color: #c1c1c133;
+	}
+	.thumbnail img{
+		border-radius: 24px 24px 0px 0px;
+	}
