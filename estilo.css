@@ -1,0 +1,36 @@
+
+	.primero{
+		width: 100%;
+		height: 300px;
+		background-image: url(images/bg2.jpg);
+		text-align: center;
+		color: white;
+		padding: 50px 330px 50px 330px;
+		margin-bottom: 40px;
+	}
+	.navbar{
+		margin-bottom: 0px;
+	}	
+
+	.fondo {
+		height: 300px;
+	}
+	button{
+		color: black;
+		background-color: white;
+		border-color: white;
+		border-radius: 10%;
+	}
+	.jumbotron{
+		margin-bottom: 0px;
+		text-align: center;
+	}
+	.thumbnail{
+		text-align: center;
+		border-radius: 30px;
+		border: solid #dad6d6 6px;
+	}
+@media () and (){
+
+
+}
